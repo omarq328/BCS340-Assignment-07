@@ -65,6 +65,8 @@ void heapSort(int arr[], int n)
     }
 }
 
+//Print Array Function(Prints first 50 of the array)
+
 // Function to reset the array
 void resetArray(int arrOne[], int arrTwo[], int num)
 {
