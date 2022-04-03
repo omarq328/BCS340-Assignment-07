@@ -4,7 +4,6 @@
 
 void printMenu();
 int menu(int answer, int arr[], int arrTwo[], int num);
-void bubbleSort(int arr[], int n);
 void copyArray(int arrOne[], int arrTwo[], int num);
 void randomArraySet(int arr[], int num);
 void resetArray(int arrOne[], int arrTwo[], int num);
