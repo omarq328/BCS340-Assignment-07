@@ -9,6 +9,8 @@ void randomArraySet(int arr[], int num);
 void resetArray(int arrOne[], int arrTwo[], int num);
 void heapSort(int arr[], int n);
 void heapify(int arr[], int n, int i);
+void merge(int arr[], int l, int m, int r);
+void mergeSort(int arr[], int l, int r);
 
 
 #endif 
