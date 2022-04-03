@@ -197,8 +197,9 @@ void heapSort(int arr[], int n)
 //Print Array Function(Prints first 50 of the array)
 void printArray(int A[], int size) {
   int i;
-  for (i = 0; i < size; i++)
-    cout << A[i] << ",";
+  for (i = 0; i < size-1; i++)
+    cout << A[i] << "->";
+  cout << A[size];
   cout << endl;
 }
 
